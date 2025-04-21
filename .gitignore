@@ -7,3 +7,7 @@
 *.user
 
 *_example
+
+.qtc_clangd/
+build/
+.cache
